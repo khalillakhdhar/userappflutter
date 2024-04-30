@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "677390538206",
+    "project_id": "depanneurapp-79451",
+    "storage_bucket": "depanneurapp-79451.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:677390538206:android:50680c386f460ad5bd394f",
+        "android_client_info": {
+          "package_name": "com.example.depannagapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxSbIIAXd5BDL0CudI5-l2eZ8l4XtgQsg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:677390538206:android:f4f9e35b32246ac5bd394f",
+        "android_client_info": {
+          "package_name": "com.example.depannages"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxSbIIAXd5BDL0CudI5-l2eZ8l4XtgQsg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:677390538206:android:acbafa3f2cc8d295bd394f",
+        "android_client_info": {
+          "package_name": "com.example.userapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxSbIIAXd5BDL0CudI5-l2eZ8l4XtgQsg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
